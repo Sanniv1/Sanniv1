@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanniv1" alt="sanniv1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sanni" target="blank"><img src="https://img.shields.io/twitter/follow/sanni?logo=twitter&style=for-the-badge" alt="sanni" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_sanniv_" target="blank"><img src="https://img.shields.io/twitter/follow/_sanniv_?logo=twitter&style=for-the-badge" alt="_sanniv_" /></a> </p>
 
 - 🔭 I’m currently working on [Browser](https://github.com/Sanniv1/Browser)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanni" height="30" width="40" /></a>
+<a href="https://twitter.com/_sanniv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sanniv_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanniv bhaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanniv bhaiya" height="30" width="40" /></a>
 </p>
 
