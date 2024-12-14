@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Browser<br>👯 I’m looking to collaborate on EduLearn<br>🤝 I’m looking for help with Edulearn<br>🌱 I’m currently learning React and Rect Native<br>💬 Ask me about Html, Css, Js<br>⚡ Fun fact :- Why do programmers prefer dark mode? Because light attracts bugs!
+🔭 I’m currently working on Browser<br>👯 I’m looking to collaborate on EduLearn<br>🤝 I’m looking for help with Edulearn<br>🌱 I’m currently learning React and React Native<br>💬 Ask me about Html, Css, Js<br>⚡ Fun fact :- Why do programmers prefer dark mode? Because light attracts bugs!
 
 
 ## 🌐 Socials:
